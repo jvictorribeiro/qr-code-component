@@ -35,12 +35,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I used this project to remember html and css, it was really good to remeber centering objects and texts.
 
 ```css
-.center-main-div {
-  margin: auto; 
-  margin-top: 12rem;
-  padding: 15px; 
-  width: 20%;
-  text-align: center;
+body { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 ```
 
