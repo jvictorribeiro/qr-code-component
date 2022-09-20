@@ -46,4 +46,4 @@ body {
 ## Author
 
 - Website - [João Victor Ribeiro](https://github.com/jvictorribeiro)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jvictorribeiro](https://www.frontendmentor.io/profile/yourusername)
